@@ -1,0 +1,53 @@
+.title {
+color:whitesmoke;
+font-family:'Times New Roman', Times, serif;
+font-size:100;
+}
+
+html {
+    background-image: url(https://cdn.discordapp.com/attachments/1067269198511886349/1102751841294495814/vBXVN4.png);
+}
+
+div {
+    background-color: rgb(83, 0, 160);
+    width: 300px;
+    border: 10px;
+    padding: 50px;
+    margin: 20px;
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24;
+}
+
+.faves {
+    font-size: 23;
+}
+
+.logo {
+    width: 250px;
+    height: 250px;
+}
+
+figure {
+    display: table
+    width: 2px;
+}
+
+figcaption {
+    background-color: rgb(83, 0, 160);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+    font-size: 16;
+    display: table-row;
+}
+
+.img1 {
+    width: 105%;
+    height: 105%;
+}
+.plaintext {
+    color:whitesmoke;
+    font-family:'Times New Roman', Times, serif;
+    font-size:25;
+}
